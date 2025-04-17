@@ -3,14 +3,9 @@
 </p>
 
 <div align="center" style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/lucas-bravo-9211a4264/" target="_blank" style="margin: 0 10px; text-decoration: none; outline: none;">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
-  </a><a href="https://github.com/lucasbravo00" target="_blank" style="margin: 0 10px; text-decoration: none; outline: none;">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
-  </a><a href="https://www.instagram.com/lucas.bravoo_/" target="_blank" style="margin: 0 10px; text-decoration: none; outline: none;">
-    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram">
-  </a>
+  <a href="https://www.linkedin.com/in/lucas-bravo-9211a4264/" target="_blank" style="margin: 0 10px; text-decoration: none; outline: none;"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/lucasbravo00" target="_blank" style="margin: 0 10px; text-decoration: none; outline: none;"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/lucas.bravoo_/" target="_blank" style="margin: 0 10px; text-decoration: none; outline: none;"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
 </div>
-
-
-
