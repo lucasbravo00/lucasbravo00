@@ -1,16 +1,21 @@
+<!-- Greeting GIF with title -->
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+<!-- Animated typing text -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Lucas+Bravo,;++;I'm+a+Python+Developer;With+some+knowledge+in+HTML+and+CSS,;Active+Learner/Researcher,;Love+to+start+new+projects!"></a>
 </p>
 
+<!-- Snake contribution animation -->
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
+<!-- Night coding decorative gif -->
 <br><br><br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+<!-- About Me section -->
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
@@ -20,6 +25,7 @@
 ✉️ &nbsp;You can shoot me an email at lucas.e.bravo@outlook.com!\
 📄 &nbsp;Have a look at my Github profile. I'm open to feedback and suggestions!
 
+<!-- Languages -->
 <br>
 <h3 align="center">Languages:</h3>
 <p align="center">
@@ -46,12 +52,14 @@
   <a href="https://www.instagram.com/lucas.bravoo_/" target="_blank" style="margin: 0 10px; text-decoration: none; outline: none;"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
 </div>
 
+
+<!-- GitHub statistics section -->
 <div align="center">
 
 <br><br><br>
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
+<br><br>
 [![](https://github-readme-stats.vercel.app/api?username=lucasbravo00&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lucasbravo00)
 <br><br>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=lucasbravo00&theme=material-palenight)](https://github.com/lucasbravo00)
