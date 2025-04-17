@@ -1,7 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Lucas+Bravo,;++;I'm+a+Python+Developer,;Some+knowledge+in+HTML+and+CSS,;Active+Learner/Researcher,;Love+to+start+new+projects!"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Lucas+Bravo,;++;I'm+a+Python+Developer;With+some+knowledge+in+HTML+and+CSS,;Active+Learner/Researcher,;Love+to+start+new+projects!"></a>
 </p>
 
 <p align = "center">
