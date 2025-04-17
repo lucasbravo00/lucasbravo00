@@ -45,3 +45,13 @@
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/lucas.bravoo_/" target="_blank" style="margin: 0 10px; text-decoration: none; outline: none;"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
 </div>
+
+<div align="center">
+
+<br><br><br>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=lucasbravo00&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lucasbravo00)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=lucasbravo00&theme=material-palenight)](https://github.com/lucasbravo00)
+</div>
