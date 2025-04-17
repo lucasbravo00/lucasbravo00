@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Data Science.\
 ✍️ &nbsp;In my free time, I like to read and do some vibe coding.\
 ✉️ &nbsp;You can shoot me an email at lucas.e.bravo@outlook.com!\
-📄 &nbsp;Have a look at my Github profiles. I'm open to feedback and suggestions!
+📄 &nbsp;Have a look at my Github profile. I'm open to feedback and suggestions!
 
 <br>
 <h3 align="center">Languages:</h3>
