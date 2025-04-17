@@ -2,6 +2,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi!+My+name+is+Lucas+Bravo+👋;++;Python+Developer,;Some+knowledge+in+HTML+and+CSS,;Active+Learner/Researcher,;Love+to+start+new+projects!"></a>
 </p>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying Psychology at the University of Buenos Aires.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Data Science.\
+✍️ &nbsp;In my free time, I like to read and do some vibe coding.\
+✉️ &nbsp;You can shoot me an email at lucas.e.bravo@outlook.com!\
+📄 &nbsp;Have a look at my Github profiles. I'm open to feedback and suggestions!
+
 <br>
 <h3 align="center">Languages:</h3>
 <p align="center">
