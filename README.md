@@ -28,6 +28,7 @@
 <!-- Languages -->
 <br>
 <h3 align="center">Languages:</h3>
+<br>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   &nbsp;&nbsp;
@@ -40,10 +41,9 @@
 <!-- Connect with me -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h3 style="display: inline-block">Connect With Me🤝</h3></summary>
   </ul>
 </div>
-
 <div align="center" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/lucas-bravo-9211a4264/" target="_blank" style="margin: 0 10px; text-decoration: none; outline: none;"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
   &nbsp;&nbsp;
@@ -54,13 +54,15 @@
 
 
 <!-- GitHub statistics section -->
+<br>
 <div align="center">
-
-<br><br><br>
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-<br><br>
-[![](https://github-readme-stats.vercel.app/api?username=lucasbravo00&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lucasbravo00)
-<br><br>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=lucasbravo00&theme=material-palenight)](https://github.com/lucasbravo00)
+  <h3> GitHub Stats:</h3>
+<br>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasbravo00&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="lucasbravo00's GitHub Stats" />
+  </p>
+<br>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasbravo00&theme=material-palenight" alt="lucasbravo00's GitHub Streak" />
+  </p>
 </div>
