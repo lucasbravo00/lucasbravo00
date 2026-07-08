@@ -54,14 +54,6 @@
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/lucas.bravoo_/" target="_blank" style="margin: 0 10px; text-decoration: none; outline: none;"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
 </div>
-
-
-<!-- GitHub statistics section -->
-<br>
-<div align="center">
-  <h3> GitHub Stats:</h3>
-<br>
-  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=lucasbravo00&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="lucasbravo00's GitHub Stats" />
   </p>
 <br>
